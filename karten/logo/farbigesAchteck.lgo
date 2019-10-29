@@ -1,0 +1,8 @@
+to farbigesAchteck
+  setpc 5
+  
+   repeat 8 [
+     fd 100
+     rt 360/8
+    ]
+end

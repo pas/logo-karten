@@ -1,0 +1,12 @@
+to quadrat :groesse
+  repeat 4 [
+    fd :groesse
+    rt 90
+  ]
+end
+
+to dreiQuadrate
+  quadrat 100
+  quadrat 150
+  quadrat 200
+end

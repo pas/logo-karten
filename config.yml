@@ -1,0 +1,53 @@
+---
+settings:
+  color: 80e5ff
+  logo_keywords: [ 'repeat', 'fd', 'rt', 'lt' , 'pd' , 'setpc', 'bk' , 'pu']
+
+worksheets:
+  -
+    label: quadrat
+  -
+    label: dach
+  -
+    label: kreis
+  -
+    label: halbkreis
+  - 
+    label: kreuz
+  -
+    name: Stern 1
+    label: stern
+  -
+    label: treppe
+  - 
+    label: schnecke
+  - 
+    label: ausfuellen
+    name: ausgefülltes Quadrat
+  -
+    label: quadratFarbig
+    name: farbiges Quadrat
+  -
+    label: farbigesAchteck
+    name: farbiges Achteck
+  -
+    label: linieGestrichelt
+    name: gestrichelte Linie
+  -
+    label: stern2
+    name: Stern 2
+  -
+    label: treppeLuecke
+    name: lückenhafte Treppe
+  -
+    label: blume
+    name: Blume
+    color: df80ff
+  -
+    label: blumeZweifarbig
+    name: zweifarbige Blume
+    color: df80ff
+  -
+    label: dreiQuadrate
+    name: drei Quadrate
+    color: df80ff

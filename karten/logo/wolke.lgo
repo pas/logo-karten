@@ -1,0 +1,10 @@
+to wolke
+  repeat 10 [
+    halbkreis
+    pu
+    rt 90
+    fd 100
+    pd
+    rt 10
+  ]
+end

@@ -1,0 +1,6 @@
+to blume
+  repeat 10 [
+    kreis
+    rt 36
+  ]
+end

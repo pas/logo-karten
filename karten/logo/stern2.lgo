@@ -1,0 +1,12 @@
+to stern2
+  repeat 6 [
+    rt 60
+    pu
+    fd 50
+    pd
+    fd 50
+    bk 50
+    pu
+    bk 50
+  ]
+end

@@ -1,0 +1,8 @@
+to linieGestrichelt
+  repeat 4 [
+    fd 50
+    pu
+    fd 50
+    pd
+  ]
+end

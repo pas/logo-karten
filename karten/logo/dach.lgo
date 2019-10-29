@@ -1,0 +1,7 @@
+to dach
+  lt 90
+  repeat 3 [
+      fd 100
+      rt 120
+  ]  
+end

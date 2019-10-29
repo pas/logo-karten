@@ -1,0 +1,9 @@
+to ausfuellen
+  repeat 100 [
+      fd 100
+      rt 90
+      fd 1
+      lt 90
+      bk 100  
+  ]
+end

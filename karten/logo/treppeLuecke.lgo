@@ -1,0 +1,10 @@
+to treppeLuecke 
+  repeat 5 [
+    pu
+    fd 50
+    rt 90
+    pd
+    fd 50
+    lt 90
+  ]
+end

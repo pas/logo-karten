@@ -1,0 +1,11 @@
+to schnecke
+  fd 20
+  rt 90
+  fd 30
+  rt 90
+  fd 40
+  rt 90
+  fd 50
+  rt 90
+  fd 60
+end

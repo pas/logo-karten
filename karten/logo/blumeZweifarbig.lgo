@@ -1,0 +1,13 @@
+to blumeZweifarbig
+  setpc 2
+  repeat 5 [
+    quadrat
+    rt 72
+  ]
+  setpc 4
+  rt 36
+  repeat 5 [
+    quadrat
+    rt 72
+  ]
+end

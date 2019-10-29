@@ -1,0 +1,8 @@
+to quadratFarbig
+  setpc 6
+ 
+  repeat 4 [
+    fd 100
+    rt 90
+  ]
+end
