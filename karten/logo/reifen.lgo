@@ -1,0 +1,10 @@
+to reifen
+  repeat 10 [
+    setpc 9
+    ausfuellen
+    lt 30
+    setpc 8
+    ausfuellen
+    lt 30
+  ]
+end

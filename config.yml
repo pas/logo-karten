@@ -41,7 +41,11 @@ worksheets:
     name: lückenhafte Treppe
   -
     label: blume
-    name: Blume
+    name: Blume 1
+    color: df80ff
+  -
+    label: blume2
+    name: Blume 2
     color: df80ff
   -
     label: blumeZweifarbig
@@ -51,3 +55,10 @@ worksheets:
     label: dreiQuadrate
     name: drei Quadrate
     color: df80ff
+  -
+    label: reifen
+    color: df80ff
+  - 
+    label: mandala
+    color: df80ff
+

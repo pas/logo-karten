@@ -1,0 +1,8 @@
+to mandala
+  repeat 20 [
+    treppe
+    lt 180
+    treppe
+    rt 360/20
+  ]
+end

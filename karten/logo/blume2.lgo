@@ -1,0 +1,6 @@
+to blume2 
+  repeat 10 [
+    halbkreis
+    rt 360/5
+  ]
+end

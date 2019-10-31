@@ -271,20 +271,20 @@
            y="129.1563"
            style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Oblique'">Logo</tspan></text>
       <image
-         sodipodi:absref="/home/pascal/switchdrive/Documents/mui/prima-logo/karten/bilder/turtle.png"
+         sodipodi:absref="./karten/bilder/turtle.png"
          y="85.03949"
          x="340.15781"
          id="image5776"
-         xlink:href="file:///home/pascal/switchdrive/Documents/mui/prima-logo/karten/bilder/turtle.png"
+         xlink:href="./karten/bilder/turtle.png"
          preserveAspectRatio="none"
          height="76.519684"
          width="131.85001" />
       <image
-         sodipodi:absref="/home/pascal/switchdrive/Documents/mui/prima-logo/karten/bilder/turtle.png"
+         sodipodi:absref="./karten/bilder/turtle.png"
          y="85.03949"
          x="861.02344"
          id="image5835"
-         xlink:href="file:///home/pascal/switchdrive/Documents/mui/prima-logo/karten/bilder/turtle.png"
+         xlink:href="./karten/bilder/turtle.png"
          preserveAspectRatio="none"
          height="76.519684"
          width="131.85001" />

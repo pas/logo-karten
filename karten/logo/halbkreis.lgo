@@ -1,6 +1,6 @@
-to halbkreis 
+to halbkreis
   repeat 180 [
-    fd 1
-    lt 1
+    fd 2
+    rt 1
   ]
 end
