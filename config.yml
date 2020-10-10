@@ -1,8 +1,65 @@
 ---
 settings:
   color: 80e5ff
-  logo_keywords: [ 'repeat', 'fd', 'rt', 'lt' , 'pd' , 'setpc', 'bk' , 'pu']
-
+keywords: 
+  -
+    name: 'forward'
+    short: 'fd'
+    description: "Gehe 10 Schritte vorwärts"
+    example: "fd 10"
+  -
+    name: 'back'
+    short: 'bk'
+    description: "Gehe 10 Schritte rückwärts"
+    example: "bk 10"
+  -
+    name: 'left'
+    short: "lt"
+    description: "Drehe dich um 90 Grad nach links"
+    example: "lt 90"
+  -
+    name: "right"
+    short: "rt"
+    description: "Drehe dich um 45 Grad nach rechts"
+    example: "rt 45"
+  -
+    name: "clearscreen"
+    short: "cs"
+    description: "Lösche alles, was du bisher gezeichnet hast"
+    example: "cs"
+  -
+    name: 'setpencolor'
+    short: "setpc"
+    description: "Nutze einen roten Stift"
+    example: "setpc 1"
+  -
+    name: "penup"
+    short: "pu"
+    description: "Laufe ohne zu zeichnen"
+    example: "pu"
+  -
+    name: 'pendown'
+    short: "pd"
+    description: "Zeichne ab jetzt wieder"
+    example: "pd"
+  -
+    name: 'hideturtle'
+    short: "ht"
+    description: "Verstecke dich"
+    example: "ht"
+  -
+    name: 'showturtle'
+    short: 'st'
+    description: "Zeige dich"
+    example: "st"
+  -
+    name: "repeat"
+    description: "Wiederhole alles was in der Klammer steht 20 Mal"
+    example: "repeat 20 [ ... ]"
+  -
+    name: "to"
+    description: "Erstelle ein Programm mit dem Namen quadrat"
+    example: "to quadrat ... end"
 worksheets:
   -
     label: quadrat
@@ -21,7 +78,10 @@ worksheets:
     label: treppe
   - 
     label: schnecke
-  - 
+  -
+    name: Quadrat
+    label: quadratEinfach 
+  -
     label: ausfuellen
     name: ausgefülltes Quadrat
   -

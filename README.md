@@ -35,3 +35,5 @@ Unter Windows beendet Inkscape nicht immer all Prozesse, die zum Erstellen der P
 Die Keywordstabelle ist noch nicht komplett. Im Moment werden nur rt,lt,bk,fd,repeat,pd,pu,setpc als Schlüsselwörter erkannt.
 
 Jegliche Zahlen werden als Argumente behandelt und entsprechend markiert.
+
+Windows ignoriert die Einrückungen in den .lgo-Dateien
